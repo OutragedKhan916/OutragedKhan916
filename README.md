@@ -35,7 +35,7 @@ I'm currently learning and improving my skills in **web development, AI, and sof
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OutragedKhan916&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OutragedKhan916&show_icons=true)
 
 ---
 
@@ -45,8 +45,7 @@ I'm currently learning and improving my skills in **web development, AI, and sof
 ---
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=OutragedKhan916&theme=tokyonight&no-frame=true&margin-w=10)
-
+![Trophies](https://github-profile-trophy.vercel.app/?username=OutragedKhan916)
 ---
 
 ## ⚡ Goals
