@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Outraged 
-## Formerly known as "adam"
+ Formerly known as "adam".. now am just a gato
 
 ## 🎓 Computer Engineering Student
 
