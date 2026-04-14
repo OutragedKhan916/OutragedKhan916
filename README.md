@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Adam
+# 👋 Hi, I'm Outraged 
+## Formerly known as "adam"
 
 ## 🎓 Computer Engineering Student
 
