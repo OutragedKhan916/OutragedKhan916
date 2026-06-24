@@ -1,91 +1,122 @@
 # 👋 Hi, I'm Adam Serhan
 
-## 🎓 Computer Engineering Student
+### Computer Engineering Student | Software Engineering & Cybersecurity Enthusiast
 
-I'm a Computer Engineering student passionate about software engineering, cybersecurity, and building systems that solve real-world problems.
+I'm a Computer Engineering student passionate about building software, securing systems, and solving real-world problems through technology.
 
-I enjoy developing modern web applications, exploring secure software practices, and learning how systems work from the hardware layer to large-scale software architectures.
+Currently focused on full-stack development, software architecture, cybersecurity fundamentals, and creating projects that have practical impact.
 
 ---
 
 ## 🚀 About Me
 
 * 💻 Focused on Software Engineering & Cybersecurity
-* 🌱 Currently learning: Next.js, TypeScript, Secure Development Practices, Networking Fundamentals
-* 🔐 Interested in: Cybersecurity, Application Security, System Design, and Full-Stack Development
-* 🤝 Open to collaborating on software, web, and security-related projects
-* 🎯 Goal: Build scalable, secure, and impactful technology solutions
+* 🔐 Interested in Application Security, System Design, and Full-Stack Development
+* 🌱 Currently learning TypeScript, Next.js, Networking, and Secure Development Practices
+* 🏗️ Building web applications, IoT systems, and developer tools
+* 🤝 Open to collaboration on software and security-related projects
+* 🎯 Working toward becoming a well-rounded Software Engineer
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect
 
-* 🔗 LinkedIn: https://www.linkedin.com/in/adamserhan
-* 💻 GitHub: https://github.com/OutragedKhan916
+<p align="left">
+<a href="https://www.linkedin.com/in/adamserhan">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
+</a>
+<a href="https://github.com/OutragedKhan916">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+</a>
+</p>
 
 ---
 
-## 💻 Tech Stack
+## ⚡ Tech Stack
 
 ### Languages
 
-🟨 JavaScript • ⚙️ C++ • 🐍 Python • 🟦 TypeScript • 🗄️ SQL
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp" />
+</p>
 
-### Frontend
+### Web Development
 
-⚛️ React • ▲ Next.js • 🎨 Tailwind CSS
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs" />
+</p>
 
-### Backend & Databases
+### Databases
 
-🗄️ MySQL • PostgreSQL • REST APIs
-
-### Cybersecurity & Systems
-
-🔐 Secure Coding Practices • 🌐 Networking Fundamentals • 🖥️ Linux • 🛡️ Web Security Concepts
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
 
 ### Tools & Platforms
 
-🔧 Git • 🐙 GitHub • 📟 Arduino • ☁️ Vercel
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,vercel,arduino" />
+</p>
+
+### Exploring
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,bash" />
+</p>
 
 ---
 
-## 🚧 Current Projects
+## 🚧 Current Focus
 
-* Building modern full-stack web applications
-* Exploring secure authentication and authorization systems
-* Developing IoT and embedded systems projects
-* Learning cybersecurity fundamentals and secure software design
+* Full-stack web development with Next.js
+* Secure authentication and authorization systems
+* Software architecture and scalable applications
+* Cybersecurity fundamentals and secure coding
+* IoT and embedded systems projects
+
+---
+
+## 📈 Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OutragedKhan916\&theme=github-dark)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OutragedKhan916\&show_icons=true)
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=OutragedKhan916&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OutragedKhan916&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
 ---
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=OutragedKhan916\&theme=tokyonight)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=OutragedKhan916&theme=github-dark-blue&hide_border=true"/>
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=OutragedKhan916)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=OutragedKhan916&theme=algolia&no-frame=true&margin-w=15&row=1&column=6"/>
+</p>
 
 ---
 
-## ⚡ Goals
+## 🎯 2026 Goals
 
-* Become a skilled Software Engineer
-* Build secure and scalable applications
-* Gain hands-on experience in Cybersecurity
+* Build impactful real-world software projects
+* Strengthen software engineering fundamentals
+* Gain hands-on cybersecurity experience
 * Contribute to open-source projects
-* Continuously learn and improve through real-world development
+* Secure a software engineering internship
 
 ---
 
 ## ✨ Fun Fact
 
-I enjoy breaking down complex systems, understanding how they work under the hood, and turning ideas into production-ready software.
+I enjoy understanding how systems work under the hood and turning ideas into production-ready software.
