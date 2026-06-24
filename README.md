@@ -76,7 +76,7 @@ Designed and developed a full-stack e-commerce platform featuring authentication
 
 ## 📅 Contribution Calendar
 
-![GitHub Contribution Calendar](https://ghchart.rshah.org/OutragedKhan916)
+![Contribution Calendar](https://github-contributions-api.jogruber.de/v4/OutragedKhan916?y=last)
 
 ---
 
