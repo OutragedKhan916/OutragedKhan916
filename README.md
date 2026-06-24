@@ -74,19 +74,9 @@ Designed and developed a full-stack e-commerce platform featuring authentication
 
 ---
 
-## 🎯 Leadership & Activities
+## 📅 Contribution Calendar
 
-### Founder & President — IoT Club
-
-* Founded and currently lead the Internet of Things Club at AUS
-* Organized workshops involving Arduino, ESP32, and embedded systems
-* Mentored students in hardware prototyping and technical development
-
-### Activities Coordinator — Society of Cybersecurity
-
-* Coordinated cybersecurity and networking workshops
-* Assisted in organizing technical events and student engagement initiatives
-* Promoted cybersecurity awareness and hands-on learning opportunities
+![GitHub Contribution Calendar](https://ghchart.rshah.org/OutragedKhan916)
 
 ---
 
