@@ -32,23 +32,34 @@ I'm passionate about building secure, scalable software and applying technology 
 
 ### Languages & Web
 
-🟨 JavaScript 🟦 TypeScript 🐍 Python ⚙️ C++ ☕ Java ⚛️ React ▲ Next.js 🎨 Tailwind CSS
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Backend & Databases
+### Full Stack & Backend
 
-🗄️ PostgreSQL 🟢 Supabase 🔌 REST APIs 🟩 Node.js
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### Cybersecurity & Systems
 
-🔐 Secure Coding Practices 🌐 Networking Fundamentals 🖥️ Linux 🛡️ Network Security
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Networking](https://img.shields.io/badge/Networking-00599C?style=for-the-badge)
+![Network Security](https://img.shields.io/badge/Network_Security-FF4B4B?style=for-the-badge)
+![Secure Coding](https://img.shields.io/badge/Secure_Coding-2E8B57?style=for-the-badge)
 
-### Hardware & Emerging Technologies
+### Tools & Hardware
 
-📟 Arduino ⚡ ESP32 👁️ OpenCV 🤖 Machine Learning 📡 IoT
-
-### Tools & Platforms
-
-🔧 Git 🐙 GitHub 💻 VS Code ☁️ Vercel
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
